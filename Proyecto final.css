@@ -1,0 +1,35 @@
+ *{
+    	font-family: 'Poppins',sans-serif;
+        
+  }
+
+* {
+margin:0;
+;
+}
+#columna1 {
+position:absolute;
+top:0px;
+left:10px;
+width:300px;
+margin-top:10px;
+background-color: #252850;
+color: white;
+padding-left:20px;
+}
+#columna2 {
+margin-left:320px;
+margin-right:20px;
+margin-top:10px;
+background-color:white;
+color:black;
+padding-left:20px;
+}
+img {
+	padding-left: 30px;
+}
+
+h3{
+	font-size: 15px;
+	font-style: ; 
+}
